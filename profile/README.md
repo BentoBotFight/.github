@@ -44,10 +44,10 @@ There are 3 robots built & frequently used in the fights.
 
 2. **Men in Black**
 
-[![Watch the video](https://github.com/BentoBotFight/.github/tree/main/assets/black.png)](/assets/black.mp4)
+[![Watch the video](../assets/black.png)](../assets/black.mp4)
 
 3. **Cylone**
-![Cylone](https://github.com/BentoBotFight/.github/tree/main/assets/orange.png)
+![Cylone](../assets/orange.png)
 
 ## Structure
 
