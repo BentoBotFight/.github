@@ -39,14 +39,13 @@ I'm open-sourcing the whole codebase (website, streaming backend, frontend, robo
 ## Robots
 There are 3 robots built & frequently used in the fights.
 
-1. Snow white
+1. **Snow White**
 ![Snow White](https://bentobot.tech/pic/bento-headshot.jpg)
-2. Men in Black
-<video width="320" height="240" controls>
-  <source src="/assets/black.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-3. Cylone
+
+2. **Men in Black**
+[![Watch the video](/assets/black.png)](/assets/black.mp4)
+
+3. **Cylone**
 ![Cylone](/assets/orange.png)
 
 ## Structure
