@@ -42,7 +42,10 @@ There are 3 robots built & frequently used in the fights.
 1. Snow white
 ![Snow White](https://bentobot.tech/pic/bento-headshot.jpg)
 2. Men in Black
-![Men in black](/assets/black.mp4)
+<video width="320" height="240" controls>
+  <source src="/assets/black.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 3. Cylone
 ![Cylone](/assets/orange.png)
 
